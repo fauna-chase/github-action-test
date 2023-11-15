@@ -1,0 +1,19 @@
+{
+  "name": "gha-test",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauna-chase/github-action-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauna-chase/github-action-test/issues"
+  },
+  "homepage": "https://github.com/fauna-chase/github-action-test#readme"
+}
